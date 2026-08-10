@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kak-uchastvovat-v-turnire-kazino.github.io
+Sitemap: https://kak-uchastvovat-v-turnire-kazino.github.io/sitemap.xml
